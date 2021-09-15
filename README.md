@@ -1,7 +1,7 @@
 # LEARN PYTHON
 LEARN PYTHON :
 - Print
-- Input type
+- Input type and variables
 - list, dict, tuple
 - if, elif, else statement
 - function
