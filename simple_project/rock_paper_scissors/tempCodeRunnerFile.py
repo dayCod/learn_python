@@ -1,0 +1,8 @@
+print("Func : "+bracket_one[0])
+    # print("Func : "+bracket_two[0])
+    # print("\n")
+    # print("Func : "+bracket_one[-1])
+    # print("Func : "+bracket_two[0])
+    # print("\n")
+    # print("Func : "+bracket_one[-1])
+    # print("Func : "+bracket_two[-1])
